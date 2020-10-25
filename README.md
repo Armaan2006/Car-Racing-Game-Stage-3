@@ -1,2 +1,2 @@
-# Car-Racing-Game-Stage-3
-Making camera angle on players movements
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
